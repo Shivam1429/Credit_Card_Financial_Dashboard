@@ -1,0 +1,3 @@
+*developed an interactive dashboard using excel to examin the trend 
+*streamlined data processing &analysis to monitor key performance metrics and trends
+*share actionable insights with stackholders based on dashboard findings to support decision making processes
